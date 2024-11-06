@@ -67,11 +67,11 @@ Assets/Textures/AlienSurvive.png
     <td>랜덤으로 생성되는 장애물을 피해 최고 기록을 갱신하는 게임</td>
     <td>
       <a href="https://www.youtube.com/watch?v=l-FfQ7vgngI">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 50px; height: 20px; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 70px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/SoheePak/Fox-Run">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 50px; height: 20px;">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 70px; height: 20px;">
       </a>
     </td>
   </tr>
@@ -83,11 +83,11 @@ Assets/Textures/AlienSurvive.png
     <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
     <td>
       <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 50px; height: 20px; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 70px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/SoheePak/Alien-Survive">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 50px; height: 20px;">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 70px; height: 20px;">
       </a>
     </td>
   </tr>

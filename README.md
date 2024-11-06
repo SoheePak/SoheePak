@@ -70,7 +70,7 @@ Assets/Textures/AlienSurvive.png
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 50px; height: 20px; margin-right: 10px;">
       </a>
       <br>
-      <a href="https://github.com/SoheePak/Alien-Survive">
+      <a href="https://github.com/SoheePak/Fox-Run">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 50px; height: 20px;">
       </a>
     </td>

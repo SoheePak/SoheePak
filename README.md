@@ -49,13 +49,13 @@
   - 관찰 및 분석
   
 <br>
-
+Assets/Textures/AlienSurvive.png
 
 ## 📁 개인 프로젝트
 
 |기술스택|로고|프로젝트 이름|설명|유튜브| 깃허브|
 |-------|----|------------|----|----|------|
-|VR|
+|VR| <img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100">
 
 
 ## 📬 연락처

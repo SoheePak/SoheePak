@@ -61,16 +61,48 @@ Assets/Textures/AlienSurvive.png
     <th>유튜브 &<br> 깃허브</th>
   </tr>
 <tr>
-    <td>3D</td>
-    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
-    <td>Alien Survive</td>
-    <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
+    <td>VR</td>
+    <td><img src="" width="100"></td>
+    <td>지진 게임 자리</td>
+    <td>이미지 트레킹 기법을 이용한 동물 사전</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+      <a href="https://www.youtube.com/watch?v=NiqtWGXmdVA">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
       </a>
       <br>
-      <a href="https://github.com/SoheePak/Alien-Survive">
+      <a href="https://github.com/SoheePak/-AR-animal">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>AR</td>
+    <td><img src="https://github.com/SoheePak/-AR-animal/blob/main/AR_animal/Assets/animal%20logo.png" width="100"></td>
+    <td>AR<br>동물사전</td>
+    <td>이미지 트레킹 기법을 이용한 동물 사전</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=NiqtWGXmdVA">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/-AR-animal">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>AR</td>
+    <td><img src="https://github.com/SoheePak/Dust-Blaster/blob/main/Image/dust%20logo.png" width="100"></td>
+    <td>Dust<br>Blaster</td>
+    <td>공격 버튼을 눌러 주변 곳곳에 있는 먼지들을 소탕하는 AR게임</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=wgKJ1M4IUeE">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Dust-Blaster">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
       </a>
     </td>

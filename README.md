@@ -52,6 +52,19 @@
 Assets/Textures/AlienSurvive.png
 
 ## 📁 개인 프로젝트
+<table>
+  <tr>
+    <th>기술<br>스택</th>
+    <th>로고</th>
+    <th>프로젝트<br>이름</th>
+    <th>설명</th>
+    <th>유튜브</th>
+    <th>깃허브</th>
+  </tr>
+  <tr>
+    <td>2D</td>
+  </tr>
+</table>
 
 |기술<br>스택|로고|프로젝트<br>이름|설명|유튜브| 깃허브|
 |-------|----|------------|----|----|------|

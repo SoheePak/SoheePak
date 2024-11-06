@@ -5,6 +5,8 @@
 **Unity**와 **C#**을 주로 사용하여 다양한 게임 개발을 배우고 있으며, 최신 기술과 트렌드에 대한 학습을 지속적으로 진행하고 있습니다. 또한, **협업**과 **문제 해결**에 대한 경험을 쌓아가며, **개인 프로젝트**를 통해 게임 개발의 다양한 측면을 경험하고 있습니다.
 
 ## 💻 스킬
+  [![My Skills](https://skillicons.dev/icons?i=visualstudio,ps,pr&theme=light)](https://skillicons.dev)
+  <br>
   [![My Skills](https://skillicons.dev/icons?i=unity,unreal&theme=light)](https://skillicons.dev)
   
 <div>
@@ -15,6 +17,10 @@
   <img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=Photon&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jqueryt&logoColor=white">
+</div>
+<div>
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 ## 🔥 경력

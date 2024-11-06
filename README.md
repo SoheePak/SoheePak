@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FAD0C9&height=300&section=header&text=SoHee's%20GitHub&fontSize=90&fontColor=FFFFFF&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=FAD0C9&height=300&section=header&text=SoHee's%20GitHub&fontSize=90&fontColor=000000&animation=fadeIn&textAlign=center&lineHeight=70)
 ## Hi there 👋
 
 <!--

@@ -48,8 +48,7 @@
   - 팀워크 및 협업
   - 관찰 및 분석
   
-<br>
-Assets/Textures/AlienSurvive.png
+
 
 ## 📁 개인 프로젝트
 <table>
@@ -184,7 +183,5 @@ Assets/Textures/AlienSurvive.png
 
 
 ## 📬 연락처
-- 이메일: [you@example.com](mailto:you@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin)
-- GitHub: [Your GitHub Profile](https://github.com/YourUsername)
+- 이메일: bpsh4266@gmail.com
 

@@ -58,13 +58,26 @@ Assets/Textures/AlienSurvive.png
     <th>로고</th>
     <th>프로젝트<br>이름</th>
     <th>설명</th>
-    <th>유튜브</th>
-    <th>깃허브</th>
+    <th>유튜브 &<br> 깃허브</th>
   </tr>
   <tr>
     <td>2D</td>
+    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
+    <td>Alien Survive</td>
+    <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 50px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Alien-Survive">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 50px; height: 20px;">
+      </a>
+    </td>
   </tr>
 </table>
+
+
 
 |기술<br>스택|로고|프로젝트<br>이름|설명|유튜브| 깃허브|
 |-------|----|------------|----|----|------|

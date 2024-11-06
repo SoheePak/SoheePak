@@ -60,6 +60,74 @@ Assets/Textures/AlienSurvive.png
     <th>설명</th>
     <th>유튜브 &<br> 깃허브</th>
   </tr>
+<tr>
+    <td>3D</td>
+    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
+    <td>Alien Survive</td>
+    <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Alien-Survive">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+
+  
+<tr>
+    <td>3D</td>
+    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
+    <td>Alien Survive</td>
+    <td>좀비 자리</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Alien-Survive">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+
+  
+  
+   <tr>
+    <td>3D</td>
+    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
+    <td>Alien Survive</td>
+    <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Alien-Survive">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+  
+ <tr>
+    <td>2D</td>
+    <td><img src="https://github.com/SoheePak/ICT/blob/main/logo.jpg"width="100"></td>
+    <td>기억이 Fun뜩!</td>
+    <td>치매 재활을 위한 실감형 콘텐츠</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=g8BHbwyGVVc">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/ICT">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+
+ 
   <tr>
     <td>2D</td>
     <td><img src="https://github.com/SoheePak/Fox-Run/blob/main/FoxRun.png" width="100"></td>
@@ -67,39 +135,17 @@ Assets/Textures/AlienSurvive.png
     <td>랜덤으로 생성되는 장애물을 피해 최고 기록을 갱신하는 게임</td>
     <td>
       <a href="https://www.youtube.com/watch?v=l-FfQ7vgngI">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 70px; height: 20px; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
       </a>
       <br>
       <a href="https://github.com/SoheePak/Fox-Run">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 70px; height: 20px;">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
       </a>
     </td>
   </tr>
-  
-  <tr>
-    <td>2D</td>
-    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
-    <td>Alien Survive</td>
-    <td>몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임</td>
-    <td>
-      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
-        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 70px; height: 20px; margin-right: 10px;">
-      </a>
-      <br>
-      <a href="https://github.com/SoheePak/Alien-Survive">
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 70px; height: 20px;">
-      </a>
-    </td>
-  </tr>
+
 </table>
 
-
-
-|기술<br>스택|로고|프로젝트<br>이름|설명|유튜브| 깃허브|
-|-------|----|------------|----|----|------|
-|3D| <img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100">|Alien Survive|몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는<br>닷지게임|[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OVKHDBRUK1k)|
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SoheePak/Alien-Survive)|
-)
 
 
 

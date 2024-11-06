@@ -23,6 +23,7 @@
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
+<br>
 ## 🔥 경력
 - **(주)엠비씨플레이비**
   _2015.10 - 2016.02 _  
@@ -47,13 +48,6 @@
   - 팀워크 및 협업
   - 관찰 및 분석
   
-
-## 🎓 자격증
-게임 개발과 관련된 자격증이나 인증을 나열해 보세요. 신입 개발자라면 학습한 내용을 인증할 수 있는 자격증도 중요합니다.
-
-- **Unity Certified Developer** — _2023.05_
-- **C# Fundamentals** — _Coursera, 2023.04_
-- **게임 프로그래밍 기초** — _Udemy, 2022.11_
 
 
 

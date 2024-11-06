@@ -55,7 +55,10 @@ Assets/Textures/AlienSurvive.png
 
 |기술스택|로고|프로젝트 이름|설명|유튜브| 깃허브|
 |-------|----|------------|----|----|------|
-|VR| <img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100">|Alien Survive|몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임|[[<img src="https://img.shields.io/badge/logo=github&logoColor=white">](https://img.shields.io/badge/-GitHub-000?logo=github&logoColor=white)](https://www.youtube.com/watch?v=abcd1234)
+|VR| <img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100">|Alien Survive|몬스터를 컨트롤하며 곳곳에 숨어있는 군인들이 쏘는 총을 피해 우주선을 찾는 닷지게임|[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=OVKHDBRUK1k)
+)
+
+
 
 
 

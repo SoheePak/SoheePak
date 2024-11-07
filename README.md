@@ -110,15 +110,17 @@
   
 <tr>
     <td>3D</td>
-    <td><img src="https://github.com/SoheePak/Alien-Survive/blob/main/Assets/Textures/AlienSurvive.png" width="100"></td>
-    <td>Alien Survive</td>
-    <td>좀비 자리</td>
+    <td><img src="https://github.com/SoheePak/zombie/blob/main/zombie.png" width="100"></td>
+    <td>Operation<br>Rescue</td>
+    <td>좀비로 지배된 세상에서 좀비를 소탕하며 생존자를 찾아 탈출하는 TPS게임</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=OVKHDBRUK1k">
+      <a href="https://youtu.be/14XM413bXac?si=8VTscCoQn2yqtcBE
+![image](https://github.com/user-attachments/assets/e099e0af-395a-4a81-b666-f8ab641a4096)
+">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
       </a>
       <br>
-      <a href="https://github.com/SoheePak/Alien-Survive">
+      <a href="https://github.com/SoheePak/zombie">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
       </a>
     </td>

@@ -78,7 +78,7 @@
   <tr>
     <td>VR</td>
     <td><img src="https://github.com/SoheePak/Earthquake/blob/main/earth.png" width="100"></td>
-    <td>지진 생사 갈림길</td>
+    <td>지진<br>생사 갈림길</td>
     <td>지진 발생 시 행동대처 요령 VR교육 콘텐츠</td>
     <td>
       <a href="https://www.youtube.com/watch?v=_acOGHCmlWU">

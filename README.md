@@ -61,15 +61,31 @@
   </tr>
 <tr>
     <td>VR</td>
-    <td><img src="" width="100"></td>
-    <td>지진 게임 자리</td>
-    <td>이미지 트레킹 기법을 이용한 동물 사전</td>
+    <td><img src="https://github.com/SoheePak/ESG/blob/main/ecologo.png" width="100"></td>
+    <td>에코<br>어드벤처</td>
+    <td> ESG 탄소 중립 실천을 위한 VR교육 콘텐츠</td>
     <td>
-      <a href="https://www.youtube.com/watch?v=NiqtWGXmdVA">
+      <a href="https://www.youtube.com/watch?v=GoOw79FUuCo">
         <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
       </a>
       <br>
-      <a href="https://github.com/SoheePak/-AR-animal">
+      <a href="https://github.com/SoheePak/ESG">
+        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
+      </a>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>VR</td>
+    <td><img src="https://github.com/SoheePak/Earthquake/blob/main/earth.png" width="100"></td>
+    <td>지진 생사 갈림길</td>
+    <td>지진 발생 시 행동대처 요령 VR교육 콘텐츠</td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=_acOGHCmlWU">
+        <img src="https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white" alt="YouTube" style="vertical-align: middle; width: 80px; height: 20px; margin-right: 10px;">
+      </a>
+      <br>
+      <a href="https://github.com/SoheePak/Earthquake/blob/main/earth.png">
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align: middle; width: 80px; height: 20px;">
       </a>
     </td>

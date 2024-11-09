@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FAD0C9&height=300&section=header&text=SoHee's%20GitHub&fontSize=90&fontColor=000000&animation=fadeIn&textAlign=center&lineHeight=70)
 
- <h2>🧑‍💻성장하는 신입 개발자 박소희 입니다.</h2>
+ <h2>🧑‍💻 성장하는 신입 개발자 박소희 입니다.</h2>
 Unity와 C#을 주로 사용하여 다양한 게임 개발을 배우고 있으며, 최신 기술과 트렌드에 대한 학습을 지속적으로 진행하고 있습니다. 또한, 협업과 문제 해결에 대한 경험을 쌓아가며, 개인 프로젝트를 통해 게임 개발의 다양한 측면을 경험하고 있습니다.
 <br>
 
